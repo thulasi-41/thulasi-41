@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thulasi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ewb development projects
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me thulasireddy0504@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: I love to cook and experiment with new recipes
